@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">RetoAndroid</string>
+    <string name="user">Usuario</string>
+    <string name="password">Contraseña</string>
+    <string name="password_confirm">Confirmar contraseña</string>
+    <string name="welcome">Bienvenido</string>
+    <string name="login">Ingresar</string>
+    <string name="register">Aun no tengo un usuario. </string>
+    <string name="register_underline"><u>Regístrarme</u> </string>
+    <string name="create_user">Crear Usuario</string>
+    <string name="create">Crear</string>
+    <string name="Tasks">Mis tareas</string>
+    <string name="task_name">Nombre de la tarea *</string>
+    <string name="task_description">Descripcion de la tarea *</string>
+    <string name="save">Guardar</string>
+    <string name="edit">Editar</string>
+    <string name="delete">Borrar</string>
+    <string name="share">Compartir</string>
+    <string name="error_login">Sus credenciales no son validas</string>
+    <string name="error_user_empty">El usuario no puede ser vacio</string>
+    <string name="error_password">Las contraseñas en ambos campos deben coincidir</string>
+</resources>
